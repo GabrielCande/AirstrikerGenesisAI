@@ -15,3 +15,8 @@ Repository with implemente NEAT, PPO and Genetic agents for the game Airstriker-
 `shimmy == 0.2.1`
 
 `stable_baselines3 == 2.3.2`
+
+## Note:
+Python supported versions: 3.6, 3.7, 3.8
+
+Recommended: Python 3.8.10 or Python 3.7.2
