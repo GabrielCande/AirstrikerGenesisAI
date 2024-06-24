@@ -1,6 +1,6 @@
 # - Airstriker-Genesis AI -
 
-Repository with implemente NEAT, PPO and Genetic agents for the game Airstriker-Genesis
+Repository with implemented NEAT, PPO and Genetic agents for the game Airstriker-Genesis
 
 # Dependencies
 ## To run the code you must have the following libraries installed:
