@@ -20,3 +20,5 @@ Repository with implemented NEAT, PPO and Genetic agents for the game Airstriker
 Python supported versions: 3.6, 3.7, 3.8
 
 Recommended: Python 3.8.10 or Python 3.7.2
+
+The PPO agents generated are in the google drive link, inside ppo_agents folder
