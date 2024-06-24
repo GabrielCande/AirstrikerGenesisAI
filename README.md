@@ -1,4 +1,4 @@
-# Airstriker-Genesis AI
+# - Airstriker-Genesis AI -
 
 Repository with implemente NEAT, PPO and Genetic agents for the game Airstriker-Genesis
 
