@@ -17,7 +17,7 @@ controller = 3
 # 0 -> Roda o jogo para jogar
 # 1 -> Roda o agente do algoritmo genético
 # 2 -> Roda o agente do algoritmo neat
-# 3 -> Roda o agente do PPO2
+# 3 -> Roda o agente do PPO
 # 4 -> Mostra o indivíduo recebido na variável a seguir:
 indLoader = np.load('NeatAgent_bestInd.npy') # Precisa ser um numpy array em formato de arquivo .npy
 
