@@ -4,7 +4,7 @@ Repository with implemented NEAT, PPO and Genetic agents for the game Airstriker
 
 # Dependencies
 ## To run the code you must have the following libraries installed:
-`gym-retro == 0.8.0`
+`gym-retro == 0.25.2`
 
 `neat-python == 0.92`
 
